@@ -13,7 +13,7 @@
         "--filesystem=xdg-pictures",
         "--talk-name=org.kde.kglobalaccel",
         "--talk-name=org.kde.plasmashell",
-        "--talk-name=org.kde.kwin",
+        "--talk-name=org.kde.KWin",
         "--talk-name=org.freedesktop.FileManager1"
     ],
     "cleanup": [

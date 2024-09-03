@@ -100,10 +100,6 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/spectacle-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "0001-appdata-Add-developer_name-launchable.patch"
                 }
             ]
         }

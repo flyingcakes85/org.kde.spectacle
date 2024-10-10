@@ -129,8 +129,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/spectacle-24.08.1.tar.xz",
-                    "sha256": "e83518bb23c56294fc78606434137660e0273c1b7941a15bba09571354ccd4c8",
+                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/spectacle-24.08.2.tar.xz",
+                    "sha256": "3f90f8cfe3359ad94f5bb0025a9251805a092c5892cd2a891965c21a0984cbdf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,

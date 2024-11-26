@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.2.3/kpipewire-6.2.3.tar.xz",
-                    "sha256": "bb473f15b4d4f59479cbbaba6ef781d9bc48813b97c35edfb3982d0ac8f030f7",
+                    "url": "https://download.kde.org/stable/plasma/6.2.4/kpipewire-6.2.4.tar.xz",
+                    "sha256": "76e456206a9f6e922cb10614476a19682f8c27957c5c8998f1d1a0dadb94ca6b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.2.3/layer-shell-qt-6.2.3.tar.xz",
-                    "sha256": "00941fedfc5420f65d6be24704b5cc2f07f5971f5b7c00145668cedc73651e1c",
+                    "url": "https://download.kde.org/stable/plasma/6.2.4/layer-shell-qt-6.2.4.tar.xz",
+                    "sha256": "001897a7d4991a9e95be73152d9513662cc7d8a53211702d906d597b73ced872",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,

@@ -124,6 +124,27 @@
             ]
         },
         {
+            "name": "qtimageformats",
+            "buildsystem": "cmake-ninja",
+            "cleanup": [
+                "/bin"
+            ],
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.qt.io/archive/qt/6.7/6.7.3/submodules/qtimageformats-everywhere-src-6.7.3.tar.xz",
+                    "sha256": "9fd58144081654c3373768dd96ead294023830927b14fe3d3c1ef641fb324753",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 7927,
+                        "stable-only": true,
+                        "url-template": "https://download.qt.io/archive/qt/$major.$minor/$version/submodules/qtimageformats-everywhere-src-$version.tar.xz"
+                    }
+                }
+            ]
+
+        },
+        {
             "name": "spectacle",
             "buildsystem": "cmake-ninja",
             "sources": [
